@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    printf("Beware the Ides of March!");
+    printf("Beware the Ideas of March!");
     return 0;
 }
